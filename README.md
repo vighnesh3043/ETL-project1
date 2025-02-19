@@ -111,7 +111,7 @@ GET http://127.0.0.1:8000/product_sales
 
 ### **4. Retrieve Sales Data for a Specific Product**
 ```sh
-GET http://127.0.0.1:8000/product_sales?product_code=85123A
+GET http://127.0.0.1:8000/product_sales?product_code=85123
 ```
 
 ## **Conclusion**
