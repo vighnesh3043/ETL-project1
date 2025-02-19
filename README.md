@@ -15,6 +15,7 @@ Ensure the following are installed:
 - MySQL Server
 - MySQL Workbench
 - Required Python dependencies
+- Make sure the dataset is in CSV format for better results
 
 ### **2. Install Dependencies**
 Run the following command to install required packages:
