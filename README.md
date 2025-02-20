@@ -86,7 +86,7 @@ DB_NAME = "your_database_name"
   ```json
   [
     {
-      "StockCode": "85123A",
+      "StockCode": "85123",
       "TotalSold": 150,
       "TotalRevenue": 1200.50,
       "LastSaleDate": "2025-02-18 10:00:00"
